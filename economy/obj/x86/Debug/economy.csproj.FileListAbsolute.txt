@@ -1,0 +1,6 @@
+/Users/nidere/Projects/economy/economy/bin/Debug/economy.exe
+/Users/nidere/Projects/economy/economy/bin/Debug/economy.pdb
+/Users/nidere/Projects/economy/economy/obj/x86/Debug/economy.csprojAssemblyReference.cache
+/Users/nidere/Projects/economy/economy/obj/x86/Debug/economy.csproj.CoreCompileInputs.cache
+/Users/nidere/Projects/economy/economy/obj/x86/Debug/economy.exe
+/Users/nidere/Projects/economy/economy/obj/x86/Debug/economy.pdb
