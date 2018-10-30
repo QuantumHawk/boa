@@ -15,10 +15,11 @@ namespace economy
 
         public static void GenerateAIs()
         {
-            AI ai = new AI();
-
-            ai.a = 1; // для примера
-            ai.b = "2"; // для примера
+            AI ai = new AI
+            {
+                a = 1, // для примера
+                b = "2" // для примера
+            };
 
             ais.Add(ai);
         }
@@ -29,3 +30,18 @@ namespace economy
         }
     }
 }
+
+//{
+//    "ais":
+//    [
+//        "weak":
+//        {
+//            "a": 1,
+//            "b": 2
+//        },
+//        "strong":
+//        {
+//            ...
+//        }
+//    ]
+//}
