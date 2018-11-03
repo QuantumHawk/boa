@@ -22,7 +22,7 @@ namespace economy
             return resBase[res];
         }
 
-        static Dictionary<string, Dictionary<int, double>> resIncome = new Dictionary<string, Dictionary<int, double>>
+        public static Dictionary<string, Dictionary<int, double>> resIncome = new Dictionary<string, Dictionary<int, double>>
         {
             {"wood", new Dictionary<int, double>{{1, resBase["wood"] * 1 },{ 2, resBase["wood"] * 2 },{ 3, resBase["wood"] * 3 },{ 4, resBase["wood"] * 4 },{ 5, resBase["wood"] * 5 } }},
             {"stone", new Dictionary<int, double>{{1, resBase["stone"] * 1 },{ 2, resBase["stone"] * 2 },{ 3, resBase["stone"] * 3 },{ 4, resBase["stone"] * 4 },{ 5, resBase["stone"] * 5 } }},

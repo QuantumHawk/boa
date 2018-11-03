@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{99533862-49C6-4C31-974C-6CE793B9A352}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="economy/AI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="economy/GSheet.cs">
     <Files>
-      <File FileName="economy/Calc.cs" Line="60" Column="67" />
+      <File FileName="economy/Calc.cs" Line="13" Column="5" />
       <File FileName="economy/Area.cs" Line="46" Column="40" />
       <File FileName="economy/Players.cs" Line="19" Column="9" />
-      <File FileName="economy/Constants.cs" Line="39" Column="1" />
-      <File FileName="economy/AI.cs" Line="19" Column="14" />
+      <File FileName="economy/Constants.cs" Line="12" Column="28" />
+      <File FileName="economy/AI.cs" Line="25" Column="10" />
+      <File FileName="economy/GSheet.cs" Line="60" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

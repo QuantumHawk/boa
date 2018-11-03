@@ -60,6 +60,7 @@
     <Compile Include="Area.cs" />
     <Compile Include="Players.cs" />
     <Compile Include="AI.cs" />
+    <Compile Include="GSheet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
